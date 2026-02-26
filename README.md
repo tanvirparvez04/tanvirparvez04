@@ -71,7 +71,7 @@ Developing machine learning models to solve complex real-world challenges, speci
         </a>
         <br /><sub><b>Email</b></sub>
       </td>
-      <td align="center" width="90">
+      <td align="center" width="80" style="padding: 4px;">
 
 <a href="https://tanvirparvez04.github.io/">
 <img src="https://img.icons8.com/fluency/48/domain.png" width="32"/>
@@ -111,14 +111,14 @@ Developing machine learning models to solve complex real-world challenges, speci
 ## 📊 Profile Analytics
 
 <div align="left" style="margin: 30px 0;">
-  <a href="https://github.com/RabbiTheAnalyst">
-    <img src="https://komarev.com/ghpvc/?username=RabbiTheAnalyst&label=Profile+Views&style=flat-square&color=4B5EAA" alt="Profile Views" style="margin: 5px;"/>
+  <a href="https://github.com/tanvirparvez04">
+    <img src="https://komarev.com/ghpvc/?username=tanvirparvez04&label=Profile+Views&style=flat-square&color=4B5EAA" alt="Profile Views" style="margin: 5px;"/>
   </a>
-  <a href="https://github.com/RabbiTheAnalyst?tab=followers">
-    <img src="https://img.shields.io/github/followers/RabbiTheAnalyst?label=Followers&style=flat-square&color=4B5EAA" alt="GitHub Followers" style="margin: 5px;"/>
+  <a href="https://github.com/tanvirparvez04?tab=followers">
+    <img src="https://img.shields.io/github/followers/tanvirparvez04?label=Followers&style=flat-square&color=4B5EAA" alt="GitHub Followers" style="margin: 5px;"/>
   </a>
-  <a href="https://github.com/RabbiTheAnalyst">
-    <img src="https://img.shields.io/github/stars/RabbiTheAnalyst?label=Stars&style=flat-square&color=4B5EAA" alt="GitHub Stars" style="margin: 5px;"/>
+  <a href="https://github.com/tanvirparvez04">
+    <img src="https://img.shields.io/github/stars/tanvirparvez04?label=Stars&style=flat-square&color=4B5EAA" alt="GitHub Stars" style="margin: 5px;"/>
   </a>
 </div>
 
