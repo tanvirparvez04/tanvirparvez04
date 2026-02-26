@@ -17,9 +17,7 @@
 </div>
 
 
-<div align="center" style="margin-bottom: 30px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=20&duration=3000&pause=1000&color=4B5EAA&center=true&vCenter=true&width=600&height=40&lines=Data+Scientist+%7C+Business+Intelligence+Expert;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Transforming+Data+into+Actionable+Insights" alt="Typing Animation" />
-</div> 
+
 
 ## 🌟 About Me
 
@@ -37,12 +35,23 @@
 <div style="background: rgba(243, 156, 18, 0.05); padding: 20px; border-radius: 10px; border-left: 4px solid #f39c12; margin: 15px 0;">
 
 
-</div>
+🔍 **Research-Oriented Data Scientist**
 
-🔍 **Mission-Driven Analyst**  
-With a statistician's precision and storyteller's flair, I bridge the gap between raw data and strategic decisions. My expertise lies in distilling complex datasets into **executive-ready insights** that drive measurable business outcomes across industries.
+I am a statistician and data scientist specializing in **Machine Learning, NLP, and Data Analysis**.  
+My research focuses on building **scalable machine learning models and data-driven solutions** for real-world problems.
 
-</div>  
+🎓 **Education**
+
+**M.Sc. in Statistics**  
+Islamic University, Bangladesh  
+CGPA: 3.50/4.00
+
+**B.Sc. in Statistics**  
+Islamic University, Bangladesh  
+CGPA: 3.62/4.00  
+Ranked **5th out of 50 students**
+
+---  
 
 ---  
 
