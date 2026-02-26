@@ -59,23 +59,19 @@ Developing machine learning models to solve complex real-world challenges, speci
 ---  
 
 ---  
+
 ## 🌍 Connect with Me 
 
-<div align="left">
+<div align="left" style="margin-bottom: 20px;">
   <table>
     <tr>
-
-<td align="center" width="90">
-
-<a href="mailto:tanvir.parvez.stat@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail.png" width="32"/>
-</a>
-
-<br>Email
-
-</td>
-
-<td align="center" width="90">
+      <td align="center" width="80" style="padding: 4px;">
+        <a href="mailto:tanvir.parvez.stat@gmail.com">
+          <img src="https://img.icons8.com/color/48/000000/gmail.png" width="32" alt="Email" />
+        </a>
+        <br /><sub><b>Email</b></sub>
+      </td>
+      <td align="center" width="90">
 
 <a href="https://tanvirparvez04.github.io/">
 <img src="https://img.icons8.com/fluency/48/domain.png" width="32"/>
@@ -84,63 +80,26 @@ Developing machine learning models to solve complex real-world challenges, speci
 <br>Website
 
 </td>
-
-<td align="center" width="90">
-
-<a href="https://github.com/tanvirparvez04">
-<img src="https://img.icons8.com/color/48/github.png" width="32"/>
-</a>
-
-<br>GitHub
-
-</td>
-
-<td align="center" width="90">
-
-<a href="https://linkedin.com/in/tanvirparvez04">
-<img src="https://img.icons8.com/color/48/linkedin.png" width="32"/>
-</a>
-
-<br>LinkedIn
-
-</td>
-
-    </tr>
-  </table>
-</div>
-
----
-## 🌍 Connect with Me 
-
-<div align="left" style="margin-bottom: 20px;">
-  <table>
-    <tr>
       <td align="center" width="80" style="padding: 4px;">
-        <a href="mailto:rabbi.stat.iu@gmail.com">
-          <img src="https://img.icons8.com/color/48/000000/gmail.png" width="32" alt="Email" />
-        </a>
-        <br /><sub><b>Email</b></sub>
-      </td>
-      <td align="center" width="80" style="padding: 4px;">
-        <a href="https://www.linkedin.com/in/rabbi-the-analyst">
+        <a href="https://www.linkedin.com/in/tanvirparvez04">
           <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="32" alt="LinkedIn" />
         </a>
         <br /><sub><b>LinkedIn</b></sub>
       </td>
       <td align="center" width="80" style="padding: 4px;">
-        <a href="https://github.com/RabbiTheAnalyst">
+        <a href="https://github.com/tanvirparvez04">
           <img src="https://img.icons8.com/fluent/48/000000/github.png" width="32" alt="GitHub" />
         </a>
         <br /><sub><b>GitHub</b></sub>
       </td>
       <td align="center" width="80" style="padding: 4px;">
-        <a href="https://wa.me/8801740083864">
+        <a href="https://wa.me/8801798955707">
           <img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="32" alt="WhatsApp" />
         </a>
         <br /><sub><b>WhatsApp</b></sub>
       </td>
       <td align="center" width="80" style="padding: 4px;">
-        <a href="https://t.me/Rabbi_Bhai">
+        <a href="https://t.me/tanvirparvez04">
           <img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="32" alt="Telegram" />
         </a>
         <br /><sub><b>Telegram</b></sub>
