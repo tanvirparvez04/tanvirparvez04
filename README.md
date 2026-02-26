@@ -40,16 +40,21 @@
 I am a statistician and data scientist specializing in **Machine Learning, NLP, and Data Analysis**.  
 My research focuses on building **scalable machine learning models and data-driven solutions** for real-world problems.
 
-🎓 **Education**
+## 🎓 **Education**
 
 **M.Sc. in Statistics**  
 Islamic University, Bangladesh  
-CGPA: 3.50/4.00
+- CGPA: 3.50/4.00
 
 **B.Sc. in Statistics**  
 Islamic University, Bangladesh  
-CGPA: 3.62/4.00  
-Ranked **5th out of 50 students**
+- CGPA: 3.62/4.00  
+- Ranked **5th out of 50 students**
+
+## 🔬 Research Interest
+
+Developing machine learning models to solve complex real-world challenges, specifically in building scalable solutions using state-of-the-art NLP technologies and data-driven approaches.
+- Topics: **Machine Learning, Natural Language Processing, Data Analysis, Geo-spatial Reasoning, LLMs, Deep Learning, Medical Imaging**
 
 ---  
 
