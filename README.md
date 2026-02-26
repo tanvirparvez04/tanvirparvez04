@@ -5,13 +5,17 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
-  Hi, I'm <span style="color:#6C63FF; text-shadow: 0px 2px 4px rgba(108,99,255,0.3);">Md. Rabbi Ali</span>
+  Hi, I'm <span style="color:#6C63FF;">Md Tanvir Parvez</span>
 </h1>
 
-<h3 align="center" style="color: #6B7280; font-weight: 400; margin-bottom: 20px;">
-  <img src="https://img.icons8.com/ios-filled/20/4B5EAA/graduation-cap.png" style="vertical-align: middle;"/> 
-  B.Sc & M.Sc in Statistics | Islamic University, Kushtia
+<h3 align="center">
+  M.Sc. & B.Sc. in Statistics | Islamic University, Bangladesh
 </h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=20&duration=3000&pause=1000&color=4B5EAA&center=true&vCenter=true&width=600&height=40&lines=Data+Scientist+%7C+Machine+Learning+Researcher;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+%7C+NLP+%7C+Data+Analysis" />
+</div>
+
 
 <div align="center" style="margin-bottom: 30px;">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=20&duration=3000&pause=1000&color=4B5EAA&center=true&vCenter=true&width=600&height=40&lines=Data+Scientist+%7C+Business+Intelligence+Expert;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Transforming+Data+into+Actionable+Insights" alt="Typing Animation" />
