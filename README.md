@@ -42,14 +42,14 @@ My research focuses on building **scalable machine learning models and data-driv
 
 ## 🎓 **Education**
 
-- **M.Sc. in Statistics**  
-- Islamic University, Bangladesh  
-    - CGPA: 3.50/4.00
+**M.Sc. in Statistics**  
+Islamic University, Bangladesh  
+- CGPA: 3.50/4.00
 
-- **B.Sc. in Statistics**  
-- Islamic University, Bangladesh  
-    - CGPA: 3.62/4.00  
-    - Ranked **5th out of 50 students**
+**B.Sc. in Statistics**  
+Islamic University, Bangladesh  
+- CGPA: 3.62/4.00  
+- Ranked **5th out of 50 students**
 
 ## 🔬 Research Interest
 
@@ -59,7 +59,57 @@ Developing machine learning models to solve complex real-world challenges, speci
 ---  
 
 ---  
+## 🌍 Connect with Me 
 
+<div align="left">
+  <table>
+    <tr>
+
+<td align="center" width="90">
+
+<a href="mailto:tanvir.parvez.stat@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail.png" width="32"/>
+</a>
+
+<br>Email
+
+</td>
+
+<td align="center" width="90">
+
+<a href="https://tanvirparvez04.github.io/">
+<img src="https://img.icons8.com/fluency/48/domain.png" width="32"/>
+</a>
+
+<br>Website
+
+</td>
+
+<td align="center" width="90">
+
+<a href="https://github.com/tanvirparvez04">
+<img src="https://img.icons8.com/color/48/github.png" width="32"/>
+</a>
+
+<br>GitHub
+
+</td>
+
+<td align="center" width="90">
+
+<a href="https://linkedin.com/in/tanvirparvez04">
+<img src="https://img.icons8.com/color/48/linkedin.png" width="32"/>
+</a>
+
+<br>LinkedIn
+
+</td>
+
+    </tr>
+  </table>
+</div>
+
+---
 ## 🌍 Connect with Me 
 
 <div align="left" style="margin-bottom: 20px;">
